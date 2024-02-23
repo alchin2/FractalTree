@@ -30,4 +30,4 @@ public void drawBranches(int x, int y, double branchLength, double angle) {
     drawBranches(endX2, endY2, branchLength, angle - branchAngle); // Use angle - branchAngle here
   }
 }
- }
+ 
